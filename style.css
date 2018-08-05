@@ -1,0 +1,32 @@
+body{
+    background-color:grey;
+    
+
+}
+.row{   
+
+    background-color:gray;
+    color:red;
+    font-size:20px;
+    display:flex;
+    justify-content: space-between;
+}
+.headshot{
+    max-width:40%;
+    align-items: center;
+   
+}
+
+.mid{
+    background-color:gray;
+    color:red;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display: flex;
+    justify-content:center;
+}
+.aboutme{
+    border:1px solid black;   
+}
